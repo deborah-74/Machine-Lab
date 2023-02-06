@@ -2,7 +2,7 @@
 
 ### Overview
 
-For this assignment, I had to use cardboard, a hot-glue gun and other materials to design a hand crank mechanism that includes a cam and a slider. The last part of the assingment was to successfully attach a motor to the mechanism and have it run for 60 seconds without failing. Below is a video demonstrating this:
+For this assignment, I had to use cardboard, a hot-glue gun and other materials to design a hand crank mechanism that includes a cam and a slider. The last part of the assingment was to successfully attach a motor to the mechanism and have it run for 60 seconds without failing. Here is a link to the video: https://youtu.be/1MHJkvxN8So
 
 ### Challenge One
 
