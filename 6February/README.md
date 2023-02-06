@@ -17,3 +17,6 @@ Another issue I faced was the cam moving sideways from underneath the follower. 
 ### Challenge Three
 
 I had some issues designing the crank mechanism - I initially made the mistake of using hot glue to stick the connecting rod to the slider, meaning that the slider rotated with the connecting rod instead of simply moving back and forth. So I had to take it apart and start again, making sure not to stick the connecting rod to the slider and instead attach them using a toothpick.
+
+![IMG-1264](https://user-images.githubusercontent.com/74653634/216923844-7b0f7958-e62b-4534-b13e-3c9db0719bc0.jpg)
+![IMG-1263](https://user-images.githubusercontent.com/74653634/216923870-d864dd93-0d50-4c56-a1ae-aa88402aed5a.jpg)
